@@ -1,0 +1,6 @@
+mcp>=1.0,<2.0
+starlette>=0.37
+uvicorn>=0.29
+openai>=1.30
+rich>=13.7
+python-dotenv>=1.0
